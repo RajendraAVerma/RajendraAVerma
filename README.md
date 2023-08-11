@@ -4,7 +4,6 @@ Passionate Full-Stack Developer | Flutter & Next.js Enthusiast
 
 🚀 Turning Ideas into Code | 🌐 Building Web Apps & Mobile Apps | 🔥 Solving Problems
 
-![Header Image](url_to_your_header_image)
 
 ## 🛠️ Technologies & Tools
 
@@ -46,11 +45,11 @@ Repository: [QR Code Attendance System](https://github.com/RajendraAVerma/QR-Cod
 
 ## 📚 Blog & Articles
 
-Check out my latest articles on [Medium](your_medium_profile_link).
+Check out my latest articles on [Medium]([your_medium_profile_link](https://www.linkedin.com/in/rajendraaverma/)).
 
 ## 📫 Let's Connect
 
-📧 Email: your@email.com | 🌐 LinkedIn: [Rajendra A Verma](linkedin_profile_link)
+📧 Email: rajendraaverma@email.com | 🌐 LinkedIn: [Rajendra A Verma]([linkedin_profile_link](https://www.linkedin.com/in/rajendraaverma/))
 
 Feel free to reach out to discuss tech, projects, or anything interesting!
 
