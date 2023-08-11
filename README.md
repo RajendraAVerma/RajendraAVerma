@@ -1,10 +1,58 @@
-- 👋 Hi, I’m @RajendraAVerma
-- 👀 I’m interested in solving life related problem through code
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  - rajendraaverma@gmail.com
+# Hi there! 👋 I'm Rajendra A Verma
 
-<!---
-RajendraAVerma/RajendraAVerma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate Full-Stack Developer | Flutter & Next.js Enthusiast
+
+🚀 Turning Ideas into Code | 🌐 Building Web Apps & Mobile Apps | 🔥 Solving Problems
+
+![Header Image](url_to_your_header_image)
+
+## 🛠️ Technologies & Tools
+
+💻 Languages: C, Dart, Java, Python, JavaScript \
+🌐 Frontend: Flutter, Next.js, React.js \
+📊 Backend: Firebase (Firestore, Storage, Functions), Django, Flask \
+☁️ Cloud: Google Cloud Platform \
+🚀 DevOps: Git, GitHub, CI/CD
+
+## 🌱 Currently Learning
+
+🤖 Machine Learning with TensorFlow | 🌐 Advanced Web Development
+
+## 🔭 Projects
+
+### Drag and Drop Website Builder
+Built a Next.js-based website builder using drag-and-drop functionality.
+Repository: [Drag and Drop Website Builder](https://github.com/RajendraAVerma/Drag-And-Drop-Website-Builder-NextJs)
+
+### School Management System - AVM School
+Developed a comprehensive app to manage school operations, including fees, attendance, and more.
+Google Play: [AVM School App](https://play.google.com/store/apps/details?id=com.piccozone.avm)
+
+### Curriculum Designer & Manager - Sharda University
+Designed an intuitive web platform for managing university curricula.
+Website: [Sharda University Curriculum Designer](https://sharda-university.vercel.app/)
+
+### WordPress Blogger Manager
+Created an app to seamlessly transfer posts between Blogger and WordPress platforms.
+Google Play: [WordPress Blogger Manager](https://play.google.com/store/apps/details?id=com.piccozone.wordpress_blogger_manager)
+
+### Eat Smart - Solving for India Hackathon
+Health-focused app using Google Cloud and Flutter for image processing and Indian food data.
+Hackathon Project: [Eat Smart](https://hackathon_link)
+
+### QR Code Attendance System - BJP Workers
+Flutter app for BJP workers to mark attendance using QR codes.
+Repository: [QR Code Attendance System](https://github.com/RajendraAVerma/QR-Code-Attendance-System)
+
+## 📚 Blog & Articles
+
+Check out my latest articles on [Medium](your_medium_profile_link).
+
+## 📫 Let's Connect
+
+📧 Email: your@email.com | 🌐 LinkedIn: [Rajendra A Verma](linkedin_profile_link)
+
+Feel free to reach out to discuss tech, projects, or anything interesting!
+
+<!-- Add more sections as needed -->
+
